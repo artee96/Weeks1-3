@@ -154,6 +154,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   newPosition: {x: 0, y: 0, z: 0}
   gameCamera: {fileID: 823076669}
+  speed: 0.5
+  chaserRenderer: {fileID: 458294166}
 --- !u!212 &458294166
 SpriteRenderer:
   m_ObjectHideFlags: 0
